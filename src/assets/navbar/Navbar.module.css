@@ -1,0 +1,33 @@
+.bg2C3E50{
+    background-color: #2C3E50;
+}
+.font{
+    
+    font-size: 28;
+}
+.navbarbrand {
+    font-family: "Montserrat", sans-serif;
+    padding-top: var(--bs-navbar-brand-padding-y);
+    padding-bottom: var(--bs-navbar-brand-padding-y);
+    margin-right: var(--bs-navbar-brand-margin-end);
+font-size: 28px;
+font-weight: 700;
+text-transform: uppercase;
+    color: var(--bs-navbar-brand-color);
+    text-decoration: none;
+    white-space: nowrap;
+}
+.navlink {
+        font-family: "Montserrat", sans-serif;
+
+    display: block;
+    padding: var(--bs-nav-link-padding-y) var(--bs-nav-link-padding-x);
+    font-size: 16px;
+font-weight: 700;
+text-transform: uppercase;
+    color: white;
+    text-decoration: none;
+    background: 0 0;
+    border: 0;
+    transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out;
+}
