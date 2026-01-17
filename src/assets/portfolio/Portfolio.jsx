@@ -16,43 +16,43 @@ export default function Portfolio() {
         
 
         <div>
-          <div class="row row-cols-4 row-cols-md-3 g-4">
+          <div class="row row-cols-4 row-cols-md-3 g-4 pb-5">
 
 
             <div class="col">
-              <div class="card">
-                <img src={img1} class="card-img-top" alt="..." />
+              <div class="">
+                <img src={img1} class="card-img-top rounded-2" alt="..." />
               </div>
             </div>
 
 
             <div class="col">
               <div class="card">
-                <img src={img2} class="card-img-top" alt="..." />
+                <img src={img2} class="card-img-top rounded-2" alt="..." />
               </div>
             </div>
 
             <div class="col">
               <div class="card">
-                <img src={img3} class="card-img-top" alt="..." />
+                <img src={img3} class="card-img-top rounded-2" alt="..." />
               </div>
             </div>
 
             <div class="col">
               <div class="card">
-                <img src={img4} class="card-img-top" alt="..." />
+                <img src={img4} class="card-img-top rounded-2" alt="..." />
               </div>
             </div>
 
             <div class="col">
               <div class="card">
-                <img src={img5} class="card-img-top" alt="..." />
+                <img src={img5} class="card-img-top rounded-2" alt="..." />
               </div>
             </div>
 
             <div class="col">
               <div class="card">
-                <img src={img6} class="card-img-top" alt="..." />
+                <img src={img6} class="card-img-top rounded-2" alt="..." />
               </div>
             </div>
 

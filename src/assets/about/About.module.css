@@ -1,0 +1,19 @@
+.title{
+    font-family: "Montserrat", sans-serif;
+
+    font-size: 48px;
+font-weight: 700;
+text-transform: uppercase;
+    color: #ffffff;
+    padding-top: 45px;
+    padding-bottom: 92px;
+}
+.bg1ABC9C{
+    background-color: #1ABC9C;
+}
+p{
+    font-family: "Lato", sans-serif;
+font-size: 20px;
+font-weight: 400;
+color: #ffffff;
+}
