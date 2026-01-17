@@ -1,0 +1,1 @@
+import style from './Hero.module.css'
