@@ -1,10 +1,6 @@
 .bg2C3E50{
     background-color: #2C3E50;
 }
-.font{
-    
-    font-size: 28;
-}
 .navbarbrand {
     font-family: "Montserrat", sans-serif;
     padding-top: var(--bs-navbar-brand-padding-y);
